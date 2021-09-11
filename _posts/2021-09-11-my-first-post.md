@@ -2,8 +2,8 @@
 title: "[#1] 첫번째 블로그 포스트"
 excerpt: "늦었지만 정리도 하며 리마인드도 하며 하려고 시작하는 블로그."
 
-# categories:
-#     - Blog
+categories:
+    - develop
 # tags:
 #     - [Blog, rhfy]
 

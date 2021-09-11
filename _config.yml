@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "고료"
   avatar           : "/assets/images/bio-photo.PNG"
-  bio              : "개발 -> 정리 -> 개발"
-  location         : "Seoul, Korea"
-  email            : "sky3kwon@naver.com"
+  bio              : "느리지만 차곡차곡 나가아는 개발자"
+  location         : "Seoul, South Korea"
+  # email            : "sky3kwon@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
