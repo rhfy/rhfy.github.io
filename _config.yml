@@ -15,7 +15,7 @@ remote_theme             : "rhfy/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-RK"
 title                    : "고료의 개발 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "KwonYongHyeon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "고료"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "개발 -> 정리 -> 개발"
   location         : "Seoul, Korea"
   email            : "sky3kwon@naver.com"
   links:
@@ -129,11 +129,11 @@ author:
 # Site Footer
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
