@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "고료"
-  avatar           : "/assets/images/bio-photo.png"
+  avatar           : "/assets/images/bio-photo.PNG"
   bio              : "개발 -> 정리 -> 개발"
   location         : "Seoul, Korea"
   email            : "sky3kwon@naver.com"
